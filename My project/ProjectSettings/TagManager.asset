@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - head
+  - wall
+  - segment
+  - apple
+  - Text
+  - Restart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - background
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - rdftgyhu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: head
+    uniqueID: 4256279265
+    locked: 0
+  - name: apple
+    uniqueID: 1809285047
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2828005381
+    locked: 0

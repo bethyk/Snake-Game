@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4437bb17a0759fe4dbdfac1aad011cbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cm: {instanceID: 0}
+  - gameover: {instanceID: 0}
+  - _segmentPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
