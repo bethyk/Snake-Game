@@ -101,9 +101,11 @@ To create a standalone build:
 
 Make sure the menu scene is placed first in the scene list so the application starts from the main menu.
 
-## AI-Generated Assets
+## Original Visual Artwork
 
-The visual assets used in this project were created with the assistance of artificial intelligence tools. These assets were selected, organized, and integrated into the Unity project by the project developer.
+The visual assets and illustrations used in this project were originally drawn and designed by **Betül Kızılkaya**.
+
+This includes the snake, food, backgrounds, menu elements, and other interface graphics. The artwork was created specifically for the game and integrated into the Unity project by the developer.
 
 ## Notes and Possible Improvements
 
